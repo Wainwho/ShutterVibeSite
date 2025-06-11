@@ -9,10 +9,9 @@ ShutterVibe is a responsive website for a professional photography studio, built
 
 ________________________________________________________________
 
-✨ Key Features
-✅ Responsive Design - Works on all devices (desktop, tablet, mobile)
-✅ Smooth Animations - Scroll-triggered fade-ins, parallax effects
-✅ Interactive Gallery - Filterable portfolio with lightbox preview
-✅ Booking System - Contact form with validation
-✅ Performance Optimized - Fast loading with lazy-loaded images
+✨ Key Features <br>
+✅ Responsive Design - Works on all devices (desktop, tablet, mobile) <br>
+✅ Smooth Animations - Scroll-triggered fade-ins, parallax effects <br>
+✅ Performance Optimized - Fast loading with lazy-loaded images <br>
 
+________________________________________________________________
